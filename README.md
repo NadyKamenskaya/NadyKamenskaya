@@ -25,7 +25,7 @@ I graduated from Tula State University with a degree in process and production s
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=NadyKamenskaya&layout=compact&theme=dark&bg_color=00000000&">
 
 ### Connect with me:
-<a href="" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="25px" /></a>
+<a href="https://www.linkedin.com/in/nady-kamenskaya" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="25px" /></a>
 
 <!--
 **NadyKamenskaya/NadyKamenskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
