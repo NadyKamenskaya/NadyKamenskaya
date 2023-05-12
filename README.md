@@ -1,4 +1,4 @@
-### Hello, World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="30px">
+### Hello, World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="30px">
 ### Welcome to my GitHub <img alt="GitHub" width="25px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" /> <img alt="GitHub" width="25px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" />
 My name is Nadezhda!<br>
 I graduated from Tula State University with a degree in process and production safety. I have worked as a design engineer for about 6 years. But know that I am looking for a friendly company where I can grow as a full-fledged Frontend Developer, face combat challenges and make valuable contributions to projects.👩🏻‍💻
@@ -41,7 +41,7 @@ I graduated from Tula State University with a degree in process and production s
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=NadyKamenskaya&layout=compact&theme=dark&bg_color=00000000">
 
 ### 🔗 Connect with me:
-<a align="left" href="https://www.linkedin.com/in/nady-kamenskaya" target="blank"><img alt="LindeIn" height="25px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
+<a align="left" href="https://www.linkedin.com/in/nady-kamenskaya" target="blank"><img alt="LindeIn" height="25px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>&nbsp;
 <a align="left" href="https://t.me/Nady_Kam"><img alt="Telegram" height="25px" src="./img/telegram.png" /></a>
 
 <!--
