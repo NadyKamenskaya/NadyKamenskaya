@@ -40,6 +40,7 @@ I graduated from Tula State University with a degree in process and production s
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NadyKamenskaya&repo=Login-Form&theme=dark&bg_color=00000000&)](https://github.com/NadyKamenskaya/Login-Form)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NadyKamenskaya&repo=Book-Info-Parser&theme=dark&bg_color=00000000&)](https://github.com/NadyKamenskaya/Book-Info-Parser)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NadyKamenskaya&repo=Complementary-Pairs&theme=dark&bg_color=00000000&)](https://github.com/NadyKamenskaya/Complementary-Pairs)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NadyKamenskaya&repo=Car-Auction&theme=dark&bg_color=00000000&)](https://github.com/NadyKamenskaya/Car-Auction)
 
 ### ✨ GitHub Stats:
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=NadyKamenskaya&show_icons=true&count_private=true&theme=dark&bg_color=00000000">
